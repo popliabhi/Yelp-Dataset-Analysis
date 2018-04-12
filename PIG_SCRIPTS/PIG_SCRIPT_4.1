@@ -1,0 +1,9 @@
+SET elephantbird.jsonloader.nestedLoad 'true';
+
+User_Load= LOAD './yelp_academic_dataset_user.json' USING com.twitter.elephantbird.pig.load.JsonLoader('-nestedLoad=true') AS (user: map[]);
+
+User= FOREACH User_Load GENERATE user#'user_id' as user_id , (chararray)user#'name' as name, (int)user#'review_count' as review_count;
+
+Final_result = ORDER User BY review_count DESC;
+
+store Final_result into './FinalQ4';

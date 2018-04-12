@@ -1,0 +1,20 @@
+SET elephantbird.jsonloader.nestedLoad 'true';
+
+Business_Load = LOAD './yelp_academic_dataset_business.json' USING com.twitter.elephantbird.pig.load.JsonLoader('-nestedLoad=true') AS (yelp: map[]);
+
+business = FOREACH Business_Load GENERATE yelp#'categories' as categories, (int)yelp#'review_count' as review_count, yelp#'city' as city, 
+yelp#'state' as state, (float)yelp#'latitude' as latitude, (float)yelp#'longitude' as longitude;
+
+US_CITIES = FILTER business BY (latitude<49.384472) AND (latitude>24.520833) AND (longitude<-66.950) AND (longitude>-124.766667); 
+
+FINAL_US_CITIES = FILTER US_CITIES BY NOT ( (state matches '.*ON.*') OR (state matches '.*QC.*') );
+
+RESULT_1 = FOREACH FINAL_US_CITIES GENERATE FLATTEN(categories), city, state, review_count;
+
+grouped = GROUP RESULT_1 BY (city,categories);
+
+RESULT_2 = FOREACH grouped GENERATE FLATTEN(group) AS (city,categories), SUM(RESULT_1.review_count);
+
+FINAL_RESULT= ORDER RESULT_2 BY city;
+
+store FINAL_RESULT into './FinalQ1';

@@ -1,0 +1,32 @@
+SET elephantbird.jsonloader.nestedLoad 'true';
+
+User_Load= LOAD './yelp_academic_dataset_user.json' USING com.twitter.elephantbird.pig.load.JsonLoader('-nestedLoad=true') AS (user: map[]);
+
+User= FOREACH User_Load GENERATE user#'user_id' as user_id, (int)user#'review_count' as review_count, (chararray)user#'name' as user_name;
+
+Business_Load = LOAD './yelp_academic_dataset_business.json' USING com.twitter.elephantbird.pig.load.JsonLoader('-nestedLoad=true') AS (business: map[]);
+
+Business = FOREACH Business_Load GENERATE business#'categories' as categories, (int)business#'review_count' as review_count_1, (chararray)business#'business_id' as business_id_1 ;
+
+Review_Load = LOAD './yelp_academic_dataset_review.json' USING com.twitter.elephantbird.pig.load.JsonLoader('-nestedLoad=true') AS (review: map[]);
+
+Review = FOREACH Review_Load GENERATE review#'business_id' as business_id, review#'user_id' as user_id_1, (double)review#'stars' as stars;
+
+sorted_user= ORDER User BY review_count DESC;
+	
+top_ten_user= LIMIT sorted_user 10;
+
+joined_U_R = JOIN Review by user_id_1, top_ten_user by user_id;
+
+result_1st_join = Foreach joined_U_R GENERATE user_name as User_Name, stars as Stars, business_id as Business_Id, user_id as User_Id;
+
+joined_B_R= JOIN result_1st_join by Business_Id, Business by business_id_1;
+
+Result_joined = FOREACH joined_B_R GENERATE  User_Name, flatten(categories) as categories, Stars, User_Id ;
+
+grouped= GROUP Result_joined BY (categories, User_Id);
+
+Result_1= FOREACH grouped GENERATE flatten(Result_joined.User_Name),flatten(Result_joined.categories), AVG(Result_joined.Stars) as avg_stars ;
+
+final = DISTINCT Result_1;
+store final into './FinalQ4b';

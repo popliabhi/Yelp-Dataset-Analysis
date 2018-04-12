@@ -1,0 +1,580 @@
+{"city":"Vaughan","category":"Auto Detailing","average_stars":1.75}
+{"city":"Mississauga","category":"Property Management","average_stars":1.75}
+{"city":"Vaughan","category":"Appliances & Repair","average_stars":1.75}
+{"city":"Urbana","category":"Truck Rental","average_stars":1.75}
+{"city":"University Heights","category":"Tires","average_stars":1.75}
+{"city":"Urbana","category":"Discount Store","average_stars":1.75}
+{"city":"Anthem","category":"Hospitals","average_stars":1.75}
+{"city":"University Heights","category":"Automotive","average_stars":1.75}
+{"city":"Tolleson","category":"Television Service Providers","average_stars":1.75}
+{"city":"San Tan Valley","category":"Fast Food","average_stars":1.75}
+{"city":"Bridgeville","category":"Vintage & Consignment","average_stars":1.75}
+{"city":"Middlefield","category":"Home Services","average_stars":1.75}
+{"city":"Montreal","category":"Car Rental","average_stars":1.75}
+{"city":"Concord","category":"Hair Stylists","average_stars":1.75}
+{"city":"Sun City","category":"Public Services & Government","average_stars":1.75}
+{"city":"Glendale","category":"Personal Shopping","average_stars":1.75}
+{"city":"Kent","category":"Department Stores","average_stars":1.75}
+{"city":"Middleburg Heights","category":"Mexican","average_stars":1.75}
+{"city":"Henderson","category":"Criminal Defense Law","average_stars":1.75}
+{"city":"York","category":"Doctors","average_stars":1.75}
+{"city":"North York","category":"Property Management","average_stars":1.75}
+{"city":"Etobicoke","category":"Children's Clothing","average_stars":1.75}
+{"city":"Huntersville","category":"Podiatrists","average_stars":1.75}
+{"city":"Bridgeville","category":"Used","average_stars":1.75}
+{"city":"Carnegie","category":"Auto Repair","average_stars":1.75}
+{"city":"Vaughan","category":"Appliances","average_stars":1.75}
+{"city":"Brampton","category":"Eyelash Service","average_stars":1.75}
+{"city":"Windsor","category":"Hotels","average_stars":1.75}
+{"city":"Mississauga","category":"Contractors","average_stars":1.75}
+{"city":"Cave Creek","category":"Festivals","average_stars":1.75}
+{"city":"Higley","category":"Pizza","average_stars":1.75}
+{"city":"University Heights","category":"Oil Change Stations","average_stars":1.75}
+{"city":"Scarborough","category":"Mattresses","average_stars":1.75}
+{"city":"Cottage Grove","category":"Fast Food","average_stars":1.75}
+{"city":"Bradford","category":"Sports Bars","average_stars":1.75}
+{"city":"Pittsburgh","category":"Mobile Phone Accessories","average_stars":1.75}
+{"city":"Strongsville","category":"Tex-Mex","average_stars":1.75}
+{"city":"Fellbach","category":"Beauty & Spas","average_stars":1.75}
+{"city":"Heidelberg","category":"Home Services","average_stars":1.75}
+{"city":"Irwin","category":"Oil Change Stations","average_stars":1.75}
+{"city":"Waxhaw","category":"Fast Food","average_stars":1.75}
+{"city":"Phoenix","category":"Vacation Rental Agents","average_stars":1.75}
+{"city":"Matthews","category":"Television Service Providers","average_stars":1.75}
+{"city":"West Mifflin","category":"Oil Change Stations","average_stars":1.75}
+{"city":"Waunakee","category":"Hotels & Travel","average_stars":1.75}
+{"city":"Tolleson","category":"Internet Service Providers","average_stars":1.75}
+{"city":"Toronto","category":"Windows Installation","average_stars":1.75}
+{"city":"Cleveland","category":"Outdoor Gear","average_stars":1.75}
+{"city":"Fountain Hills","category":"Real Estate","average_stars":1.75}
+{"city":"Willoughby","category":"Trainers","average_stars":1.75}
+{"city":"Leinfelden-Echterdingen","category":"Food Delivery Services","average_stars":1.75}
+{"city":"North York","category":"Hospitals","average_stars":1.75}
+{"city":"Mentor","category":"Car Wash","average_stars":1.75}
+{"city":"Pickering","category":"Hotels & Travel","average_stars":1.75}
+{"city":"University Heights","category":"Auto Repair","average_stars":1.75}
+{"city":"Windsor","category":"Hotels & Travel","average_stars":1.75}
+{"city":"Medina","category":"Mobile Phones","average_stars":1.75}
+{"city":"Anthem","category":"Real Estate","average_stars":1.75}
+{"city":"Mississauga","category":"Cafeteria","average_stars":1.75}
+{"city":"Bethel Park","category":"Orthodontists","average_stars":1.75}
+{"city":"Amherst","category":"Cheesesteaks","average_stars":1.75}
+{"city":"Scarborough","category":"Movers","average_stars":1.6666666666666667}
+{"city":"Etobicoke","category":"Travel Services","average_stars":1.6666666666666667}
+{"city":"Brampton","category":"Couriers & Delivery Services","average_stars":1.6666666666666667}
+{"city":"Mesa","category":"University Housing","average_stars":1.6666666666666667}
+{"city":"Mississauga","category":"Appliances & Repair","average_stars":1.6666666666666667}
+{"city":"Avon Lake","category":"Fast Food","average_stars":1.6666666666666667}
+{"city":"North York","category":"Real Estate","average_stars":1.6666666666666667}
+{"city":"Rantoul","category":"Fast Food","average_stars":1.6666666666666667}
+{"city":"North Las Vegas","category":"Internal Medicine","average_stars":1.625}
+{"city":"Savoy","category":"Home Services","average_stars":1.625}
+{"city":"Gormley","category":"Food","average_stars":1.5}
+{"city":"San Tan","category":"Health & Medical","average_stars":1.5}
+{"city":"North Versailles","category":"Donuts","average_stars":1.5}
+{"city":"New Kensington","category":"Hotels","average_stars":1.5}
+{"city":"Pittsburgh","category":"Television Service Providers","average_stars":1.5}
+{"city":"Mayfield Heights","category":"Doctors","average_stars":1.5}
+{"city":"Chandler","category":"Car Buyers","average_stars":1.5}
+{"city":"Garfield Heights","category":"Sandwiches","average_stars":1.5}
+{"city":"Lachine","category":"Event Planning & Services","average_stars":1.5}
+{"city":"etobicoke","category":"Home Cleaning","average_stars":1.5}
+{"city":"Dollard-des-Ormeaux","category":"Department Stores","average_stars":1.5}
+{"city":"Lasalle","category":"Office Equipment","average_stars":1.5}
+{"city":"Beachwood","category":"Career Counseling","average_stars":1.5}
+{"city":"Stowe","category":"Donuts","average_stars":1.5}
+{"city":"Chandler","category":"Utilities","average_stars":1.5}
+{"city":"Bridgeville","category":"Donuts","average_stars":1.5}
+{"city":"Fitchburg","category":"Internet Service Providers","average_stars":1.5}
+{"city":"Phoenix","category":"Addiction Medicine","average_stars":1.5}
+{"city":"Irwin","category":"Car Rental","average_stars":1.5}
+{"city":"Oakville","category":"Auto Detailing","average_stars":1.5}
+{"city":"Indian Trail","category":"Southern","average_stars":1.5}
+{"city":"Avondale","category":"Window Washing","average_stars":1.5}
+{"city":"Euclid","category":"Doctors","average_stars":1.5}
+{"city":"Willoughby","category":"Pet Services","average_stars":1.5}
+{"city":"Champaign","category":"Guns & Ammo","average_stars":1.5}
+{"city":"Avon","category":"Pet Training","average_stars":1.5}
+{"city":"Woodbridge","category":"IT Services & Computer Repair","average_stars":1.5}
+{"city":"Parma","category":"General Dentistry","average_stars":1.5}
+{"city":"McMurray","category":"Doctors","average_stars":1.5}
+{"city":"Beaconsfield","category":"Sandwiches","average_stars":1.5}
+{"city":"Newmarket","category":"Oil Change Stations","average_stars":1.5}
+{"city":"Surprise","category":"Race Tracks","average_stars":1.5}
+{"city":"MESA","category":"Burgers","average_stars":1.5}
+{"city":"Monroeville","category":"Public Services & Government","average_stars":1.5}
+{"city":"Carnegie","category":"Barbeque","average_stars":1.5}
+{"city":"Turtle Creek","category":"Health & Medical","average_stars":1.5}
+{"city":"Goodyear","category":"Photography Stores & Services","average_stars":1.5}
+{"city":"Huntersville","category":"Television Service Providers","average_stars":1.5}
+{"city":"Stoughton","category":"Mags","average_stars":1.5}
+{"city":"Mississauga","category":"Laundry Services","average_stars":1.5}
+{"city":"Berea","category":"Haunted Houses","average_stars":1.5}
+{"city":"Parma Heights","category":"Real Estate","average_stars":1.5}
+{"city":"Oakville","category":"Travel Services","average_stars":1.5}
+{"city":"Lakewood","category":"Cambodian","average_stars":1.5}
+{"city":"Leetsdale","category":"Bakeries","average_stars":1.5}
+{"city":"Beachwood","category":"Educational Services","average_stars":1.5}
+{"city":"Stallings","category":"Italian","average_stars":1.5}
+{"city":"Lachine","category":"Breakfast & Brunch","average_stars":1.5}
+{"city":"Seven Hills","category":"Laser Eye Surgery/Lasik","average_stars":1.5}
+{"city":"Lasalle","category":"IT Services & Computer Repair","average_stars":1.5}
+{"city":"North Huntingdon","category":"Body Shops","average_stars":1.5}
+{"city":"Glendale","category":"Street Vendors","average_stars":1.5}
+{"city":"Murrysville","category":"Financial Services","average_stars":1.5}
+{"city":"Shaker Heights","category":"Gas & Service Stations","average_stars":1.5}
+{"city":"Lyndhurst","category":"Eyewear & Opticians","average_stars":1.5}
+{"city":"Kannapolis","category":"Recreation Centers","average_stars":1.5}
+{"city":"Scarborough","category":"Cards & Stationery","average_stars":1.5}
+{"city":"Pittsburgh","category":"Couriers & Delivery Services","average_stars":1.5}
+{"city":"Chandler","category":"Travel Agents","average_stars":1.5}
+{"city":"Walton Hills","category":"Home & Garden","average_stars":1.5}
+{"city":"Pineville","category":"Plus Size Fashion","average_stars":1.5}
+{"city":"Beachwood","category":"Signmaking","average_stars":1.5}
+{"city":"Cleveland","category":"Party Bus Rentals","average_stars":1.5}
+{"city":"Phoenix","category":"Tenant and Eviction Law","average_stars":1.5}
+{"city":"Oregon","category":"Party Bus Rentals","average_stars":1.5}
+{"city":"Schwieberdingen","category":"Hotels & Travel","average_stars":1.5}
+{"city":"Highland Hills","category":"Financial Services","average_stars":1.5}
+{"city":"Beachwood","category":"Cafeteria","average_stars":1.5}
+{"city":"Laval","category":"Home & Garden","average_stars":1.5}
+{"city":"Schwieberdingen","category":"Active Life","average_stars":1.5}
+{"city":"Wesley Chapel","category":"Beauty & Spas","average_stars":1.5}
+{"city":"Mayfield","category":"Insurance","average_stars":1.5}
+{"city":"Mount Lebanon","category":"Formal Wear","average_stars":1.5}
+{"city":"Belmont","category":"Buffets","average_stars":1.5}
+{"city":"Newmarket","category":"Heating & Air Conditioning/HVAC","average_stars":1.5}
+{"city":"Richmond Hill","category":"Carpet Cleaning","average_stars":1.5}
+{"city":"MESA","category":"Airlines","average_stars":1.5}
+{"city":"Middleton","category":"Gardeners","average_stars":1.5}
+{"city":"Mississauga","category":"Dry Cleaning","average_stars":1.5}
+{"city":"Mount Horeb","category":"Fast Food","average_stars":1.5}
+{"city":"Wesley Chapel","category":"Hair Removal","average_stars":1.5}
+{"city":"etobicoke","category":"Home Services","average_stars":1.5}
+{"city":"Avondale","category":"Notaries","average_stars":1.5}
+{"city":"Concord","category":"Airport Shuttles","average_stars":1.5}
+{"city":"Leetsdale","category":"Videos & Video Game Rental","average_stars":1.5}
+{"city":"Mississauga","category":"Water Purification Services","average_stars":1.5}
+{"city":"Richmond Hill","category":"Home Cleaning","average_stars":1.5}
+{"city":"Parma","category":"Dentists","average_stars":1.5}
+{"city":"Saint-Leonard","category":"Buffets","average_stars":1.5}
+{"city":"Lasalle","category":"Furniture Stores","average_stars":1.5}
+{"city":"Saint-Leonard","category":"Fast Food","average_stars":1.5}
+{"city":"Mentor","category":"Interior Design","average_stars":1.5}
+{"city":"Parma","category":"Discount Store","average_stars":1.5}
+{"city":"Las Vegas","category":"Aircraft Repairs","average_stars":1.5}
+{"city":"Mayfield Heights","category":"Ophthalmologists","average_stars":1.5}
+{"city":"Rantoul","category":"Hotels","average_stars":1.5}
+{"city":"Leetsdale","category":"Shopping","average_stars":1.5}
+{"city":"Bedford","category":"Mobile Phones","average_stars":1.5}
+{"city":"Avondale","category":"Obstetricians & Gynecologists","average_stars":1.5}
+{"city":"Woodbridge","category":"Computers","average_stars":1.5}
+{"city":"Avon","category":"Donuts","average_stars":1.5}
+{"city":"Mayfield Village","category":"Insurance","average_stars":1.5}
+{"city":"Oakmont","category":"Local Services","average_stars":1.5}
+{"city":"Montreal","category":"Auto Detailing","average_stars":1.5}
+{"city":"Mayfield Heights","category":"Apartments","average_stars":1.5}
+{"city":"Avondale","category":"Diagnostic Services","average_stars":1.5}
+{"city":"Huntersville","category":"Home Automation","average_stars":1.5}
+{"city":"North Las Vegas","category":"Pediatricians","average_stars":1.5}
+{"city":"Montreal","category":"Car Wash","average_stars":1.5}
+{"city":"Gastonia","category":"Car Rental","average_stars":1.5}
+{"city":"Streetsboro","category":"Discount Store","average_stars":1.5}
+{"city":"Esslingen","category":"Furniture Stores","average_stars":1.5}
+{"city":"Pointe Claire","category":"Religious Organizations","average_stars":1.5}
+{"city":"etobicoke","category":"Office Cleaning","average_stars":1.5}
+{"city":"Macedonia","category":"Diners","average_stars":1.5}
+{"city":"Beachwood","category":"Education","average_stars":1.5}
+{"city":"El Mirage","category":"Burgers","average_stars":1.5}
+{"city":"Pittsburgh","category":"Uniforms","average_stars":1.5}
+{"city":"Toronto","category":"Clothing Rental","average_stars":1.5}
+{"city":"Tolleson","category":"Couriers & Delivery Services","average_stars":1.5}
+{"city":"Bradford","category":"Imported Food","average_stars":1.5}
+{"city":"Broadview Heights","category":"Laundry Services","average_stars":1.5}
+{"city":"Rantoul","category":"Event Planning & Services","average_stars":1.5}
+{"city":"North Las Vegas","category":"Imported Food","average_stars":1.5}
+{"city":"Newbury","category":"Musical Instruments & Teachers","average_stars":1.5}
+{"city":"Dollard-des-Ormeaux","category":"Canadian (New)","average_stars":1.5}
+{"city":"Matthews","category":"Tree Services","average_stars":1.5}
+{"city":"Fairlawn","category":"Post Offices","average_stars":1.5}
+{"city":"Medina","category":"Internet Service Providers","average_stars":1.5}
+{"city":"Scarborough","category":"Taxis","average_stars":1.5}
+{"city":"McMurray","category":"Obstetricians & Gynecologists","average_stars":1.5}
+{"city":"Belmont","category":"Mortgage Brokers","average_stars":1.5}
+{"city":"Streetsboro","category":"Drugstores","average_stars":1.5}
+{"city":"Boulder City","category":"Home Health Care","average_stars":1.5}
+{"city":"Mount Lebanon","category":"Men's Clothing","average_stars":1.5}
+{"city":"Nellis Afb","category":"Auto Repair","average_stars":1.5}
+{"city":"Willoughby","category":"Pet Training","average_stars":1.5}
+{"city":"Saint-Leonard","category":"Doctors","average_stars":1.5}
+{"city":"Seven Hills","category":"Doctors","average_stars":1.5}
+{"city":"Parma","category":"Roofing","average_stars":1.5}
+{"city":"Oregon","category":"Airport Shuttles","average_stars":1.5}
+{"city":"Mc Farland","category":"Television Stations","average_stars":1.5}
+{"city":"Saint-Lambert","category":"Shopping","average_stars":1.5}
+{"city":"Avon Lake","category":"Hotels","average_stars":1.5}
+{"city":"Charlotte","category":"Pain Management","average_stars":1.5}
+{"city":"Glendale","category":"Hydrotherapy","average_stars":1.5}
+{"city":"Parma","category":"Oral Surgeons","average_stars":1.5}
+{"city":"Vaughan","category":"Blow Dry/Out Services","average_stars":1.5}
+{"city":"Gastonia","category":"Real Estate","average_stars":1.5}
+{"city":"Bradford","category":"Specialty Food","average_stars":1.5}
+{"city":"Toronto","category":"Go Karts","average_stars":1.5}
+{"city":"Gormley","category":"Internet Cafes","average_stars":1.5}
+{"city":"Chandler","category":"Medical Supplies","average_stars":1.5}
+{"city":"Huntersville","category":"Security Systems","average_stars":1.5}
+{"city":"McMurray","category":"Skin Care","average_stars":1.5}
+{"city":"Mayfield Heights","category":"Optometrists","average_stars":1.5}
+{"city":"Henderson","category":"Utilities","average_stars":1.5}
+{"city":"Stowe","category":"Bakeries","average_stars":1.5}
+{"city":"Ingliston","category":"Car Rental","average_stars":1.5}
+{"city":"Turtle Creek","category":"Pediatric Dentists","average_stars":1.5}
+{"city":"Dravosburg","category":"Food","average_stars":1.5}
+{"city":"Middleton","category":"Landscaping","average_stars":1.5}
+{"city":"Brampton","category":"Acupuncture","average_stars":1.5}
+{"city":"Sewickley","category":"Laser Eye Surgery/Lasik","average_stars":1.5}
+{"city":"Broadview Heights","category":"Dry Cleaning","average_stars":1.5}
+{"city":"Walton Hills","category":"Home Decor","average_stars":1.5}
+{"city":"Pleasant Hills","category":"Home & Garden","average_stars":1.5}
+{"city":"Nellis Afb","category":"Auto Parts & Supplies","average_stars":1.5}
+{"city":"Lower Burrell","category":"Fast Food","average_stars":1.5}
+{"city":"Nellis Afb","category":"Oil Change Stations","average_stars":1.5}
+{"city":"Glendale","category":"Vocational & Technical School","average_stars":1.5}
+{"city":"Pointe Claire","category":"Shoe Stores","average_stars":1.5}
+{"city":"Homestead","category":"Internet Service Providers","average_stars":1.5}
+{"city":"Henderson","category":"Shared Office Spaces","average_stars":1.5}
+{"city":"Oregon","category":"Travel Services","average_stars":1.5}
+{"city":"Newmarket","category":"Plumbing","average_stars":1.5}
+{"city":"Murrysville","category":"Auto Insurance","average_stars":1.5}
+{"city":"Independence","category":"Day Spas","average_stars":1.5}
+{"city":"Etna","category":"Auto Parts & Supplies","average_stars":1.5}
+{"city":"Mount Holly","category":"Chicken Wings","average_stars":1.5}
+{"city":"Mayfield Heights","category":"Shipping Centers","average_stars":1.5}
+{"city":"Sun Lakes","category":"Chicken Wings","average_stars":1.5}
+{"city":"Mississauga","category":"Cosmetology Schools","average_stars":1.5}
+{"city":"Scarborough","category":"Toy Stores","average_stars":1.5}
+{"city":"Gormley","category":"Coffee & Tea","average_stars":1.5}
+{"city":"Fairlawn","category":"Drugstores","average_stars":1.5}
+{"city":"Mayfield Heights","category":"Appliances","average_stars":1.5}
+{"city":"Richmond Hill","category":"Dermatologists","average_stars":1.5}
+{"city":"Brunswick","category":"Notaries","average_stars":1.5}
+{"city":"Lasalle","category":"Electronics","average_stars":1.5}
+{"city":"Mesa","category":"Beverage Store","average_stars":1.5}
+{"city":"Goodyear","category":"Piercing","average_stars":1.5}
+{"city":"Tolleson","category":"Handyman","average_stars":1.5}
+{"city":"Paradise","category":"Home Services","average_stars":1.5}
+{"city":"Paradise Valley","category":"Massage Therapy","average_stars":1.5}
+{"city":"Youngtown","category":"Fast Food","average_stars":1.5}
+{"city":"Savoy","category":"Sandwiches","average_stars":1.5}
+{"city":"Beachwood","category":"Specialty Schools","average_stars":1.5}
+{"city":"Boulder City","category":"Medical Supplies","average_stars":1.5}
+{"city":"Moon Township","category":"Local Services","average_stars":1.5}
+{"city":"Leetsdale","category":"Mags","average_stars":1.5}
+{"city":"Gastonia","category":"Television Service Providers","average_stars":1.5}
+{"city":"Dravosburg","category":"Sandwiches","average_stars":1.5}
+{"city":"Cuyahoga Falls","category":"Computers","average_stars":1.5}
+{"city":"Matthews","category":"Security Systems","average_stars":1.5}
+{"city":"Laveen","category":"Family Practice","average_stars":1.5}
+{"city":"Kirkland","category":"Home Decor","average_stars":1.5}
+{"city":"Chandler","category":"Orthotics","average_stars":1.5}
+{"city":"Pleasant Hills","category":"Furniture Stores","average_stars":1.5}
+{"city":"Hudson","category":"Post Offices","average_stars":1.5}
+{"city":"Chateauguay","category":"Breakfast & Brunch","average_stars":1.5}
+{"city":"Berea","category":"IT Services & Computer Repair","average_stars":1.5}
+{"city":"Pineville","category":"Lingerie","average_stars":1.5}
+{"city":"Parma Heights","category":"Halal","average_stars":1.5}
+{"city":"Mesa","category":"Soccer","average_stars":1.5}
+{"city":"Walton Hills","category":"Shopping","average_stars":1.5}
+{"city":"El Mirage","category":"Appliances & Repair","average_stars":1.5}
+{"city":"Spring Valley","category":"Weight Loss Centers","average_stars":1.5}
+{"city":"Whitchurch-Stouffville","category":"Grocery","average_stars":1.5}
+{"city":"North York","category":"Dry Cleaning","average_stars":1.5}
+{"city":"Oregon","category":"Transportation","average_stars":1.5}
+{"city":"Oregon","category":"Buses","average_stars":1.5}
+{"city":"Sun Lakes","category":"Grocery","average_stars":1.5}
+{"city":"Savoy","category":"Hair Stylists","average_stars":1.5}
+{"city":"Montreal-West","category":"Mediterranean","average_stars":1.5}
+{"city":"Fairview Park","category":"Hotels","average_stars":1.5}
+{"city":"Mint Hill","category":"Donuts","average_stars":1.5}
+{"city":"Mount Lebanon","category":"Accessories","average_stars":1.5}
+{"city":"Bradford","category":"Pubs","average_stars":1.5}
+{"city":"Indian Trail","category":"Seafood","average_stars":1.5}
+{"city":"Seven Hills","category":"Ophthalmologists","average_stars":1.5}
+{"city":"Sewickley","category":"Dermatologists","average_stars":1.5}
+{"city":"Nellis Afb","category":"Tires","average_stars":1.5}
+{"city":"Anjou","category":"Local Services","average_stars":1.5}
+{"city":"Bradford","category":"Dive Bars","average_stars":1.5}
+{"city":"Laval","category":"Bridal","average_stars":1.5}
+{"city":"Columbia Station","category":"Golf","average_stars":1.5}
+{"city":"Brunswick","category":"Body Shops","average_stars":1.5}
+{"city":"Maple Heights","category":"Appliances","average_stars":1.5}
+{"city":"Lachine","category":"Financial Services","average_stars":1.5}
+{"city":"San Tan","category":"Counseling & Mental Health","average_stars":1.5}
+{"city":"Tallmadge","category":"Department Stores","average_stars":1.5}
+{"city":"North Olmsted","category":"Pretzels","average_stars":1.5}
+{"city":"Mayfield Heights","category":"Eyewear & Opticians","average_stars":1.5}
+{"city":"Saint-Lambert","category":"Imported Food","average_stars":1.5}
+{"city":"Sewickley","category":"Doctors","average_stars":1.5}
+{"city":"Urbana","category":"Mobile Phones","average_stars":1.5}
+{"city":"Indian Trail","category":"Office Cleaning","average_stars":1.5}
+{"city":"Berea","category":"Internet Service Providers","average_stars":1.5}
+{"city":"Columbia Station","category":"Venues & Event Spaces","average_stars":1.5}
+{"city":"Stow","category":"Photography Stores & Services","average_stars":1.5}
+{"city":"Brunswick","category":"Shipping Centers","average_stars":1.5}
+{"city":"Homestead","category":"Mobile Phones","average_stars":1.5}
+{"city":"Las Vegas","category":"Airsoft","average_stars":1.5}
+{"city":"Turtle Creek","category":"Dentists","average_stars":1.5}
+{"city":"Medina","category":"Car Rental","average_stars":1.5}
+{"city":"Las Vegas Strip","category":"Cosmetics & Beauty Supply","average_stars":1.5}
+{"city":"Belmont","category":"Banks & Credit Unions","average_stars":1.5}
+{"city":"Richmond Hill","category":"Pharmacy","average_stars":1.5}
+{"city":"Gastonia","category":"Internet Service Providers","average_stars":1.5}
+{"city":"Pittsburgh","category":"Marketing","average_stars":1.5}
+{"city":"New Kensington","category":"Hotels & Travel","average_stars":1.5}
+{"city":"Madison","category":"Mobile Phone Accessories","average_stars":1.5}
+{"city":"Savoy","category":"Convenience Stores","average_stars":1.5}
+{"city":"Coraopolis","category":"Financial Services","average_stars":1.5}
+{"city":"Matthews","category":"Outdoor Gear","average_stars":1.5}
+{"city":"Montreal-West","category":"Sandwiches","average_stars":1.5}
+{"city":"Middleton","category":"Mobile Phones","average_stars":1.5}
+{"city":"Coraopolis","category":"Banks & Credit Unions","average_stars":1.5}
+{"city":"Stoughton","category":"Books","average_stars":1.5}
+{"city":"Westlake","category":"Insurance","average_stars":1.5}
+{"city":"Shaker Heights","category":"Eyelash Service","average_stars":1.5}
+{"city":"Toronto","category":"Laboratory Testing","average_stars":1.5}
+{"city":"Beaconsfield","category":"Salad","average_stars":1.5}
+{"city":"Oregon","category":"Hotels & Travel","average_stars":1.5}
+{"city":"Gastonia","category":"Home Automation","average_stars":1.5}
+{"city":"Solon","category":"Self Storage","average_stars":1.5}
+{"city":"Henderson","category":"Farming Equipment","average_stars":1.5}
+{"city":"University Heights","category":"Nail Salons","average_stars":1.5}
+{"city":"Stoughton","category":"Bookstores","average_stars":1.5}
+{"city":"Oakdale","category":"Fast Food","average_stars":1.5}
+{"city":"Brunswick","category":"Printing Services","average_stars":1.5}
+{"city":"Mayfield Heights","category":"Real Estate","average_stars":1.5}
+{"city":"Bedford","category":"Building Supplies","average_stars":1.5}
+{"city":"Stoughton","category":"Music & Video","average_stars":1.5}
+{"city":"Chandler","category":"Cooking Schools","average_stars":1.5}
+{"city":"Tolleson","category":"Drugstores","average_stars":1.5}
+{"city":"Cleveland","category":"Internet Service Providers","average_stars":1.5}
+{"city":"Ingliston","category":"Hotels & Travel","average_stars":1.5}
+{"city":"Verona","category":"Apartments","average_stars":1.5}
+{"city":"Euclid","category":"Orthopedists","average_stars":1.5}
+{"city":"Pointe-Claire","category":"Office Equipment","average_stars":1.5}
+{"city":"Cheswick","category":"Barbeque","average_stars":1.5}
+{"city":"North Las Vegas","category":"Dermatologists","average_stars":1.5}
+{"city":"Pointe-Claire","category":"Nurseries & Gardening","average_stars":1.5}
+{"city":"Canonsburg","category":"Donuts","average_stars":1.5}
+{"city":"Avon","category":"Hot Dogs","average_stars":1.5}
+{"city":"Moon Township","category":"Appliances & Repair","average_stars":1.5}
+{"city":"Brookpark","category":"Auto Detailing","average_stars":1.5}
+{"city":"Pickering","category":"Home Services","average_stars":1.5}
+{"city":"Waxhaw","category":"Pediatric Dentists","average_stars":1.5}
+{"city":"Chandler","category":"Prosthetics","average_stars":1.5}
+{"city":"Lyndhurst","category":"Home Services","average_stars":1.5}
+{"city":"Mint Hill","category":"Coffee & Tea","average_stars":1.5}
+{"city":"Bradford","category":"Dance Clubs","average_stars":1.5}
+{"city":"North Olmsted","category":"Recycling Center","average_stars":1.5}
+{"city":"Willoughby","category":"Pet Groomers","average_stars":1.5}
+{"city":"Eastlake","category":"Mobile Phones","average_stars":1.5}
+{"city":"Fairlawn","category":"Fruits & Veggies","average_stars":1.5}
+{"city":"Gastonia","category":"Security Systems","average_stars":1.5}
+{"city":"Parma","category":"Police Departments","average_stars":1.5}
+{"city":"Broadview Heights","category":"Dry Cleaning & Laundry","average_stars":1.5}
+{"city":"Sun City","category":"Day Spas","average_stars":1.5}
+{"city":"Pointe-Claire","category":"Home & Garden","average_stars":1.5}
+{"city":"Concord","category":"Limos","average_stars":1.5}
+{"city":"Streetsboro","category":"Mobile Phones","average_stars":1.5}
+{"city":"Mount Lebanon","category":"Plus Size Fashion","average_stars":1.5}
+{"city":"Pointe Claire","category":"Shopping","average_stars":1.5}
+{"city":"Concord","category":"Pretzels","average_stars":1.5}
+{"city":"Mayfield Village","category":"Financial Services","average_stars":1.5}
+{"city":"Mount Lebanon","category":"Sports Wear","average_stars":1.5}
+{"city":"Wesley Chapel","category":"Waxing","average_stars":1.5}
+{"city":"Harrisburg","category":"Caterers","average_stars":1.5}
+{"city":"Bradford","category":"Ethnic Food","average_stars":1.5}
+{"city":"Dravosburg","category":"Food Delivery Services","average_stars":1.5}
+{"city":"Coraopolis","category":"Halal","average_stars":1.5}
+{"city":"Paradise","category":"Apartments","average_stars":1.5}
+{"city":"Schwieberdingen","category":"Hotels","average_stars":1.5}
+{"city":"Euclid","category":"Donuts","average_stars":1.5}
+{"city":"Etna","category":"Chicken Wings","average_stars":1.5}
+{"city":"Litchfield Park","category":"Urologists","average_stars":1.5}
+{"city":"Markham","category":"Security Systems","average_stars":1.5}
+{"city":"Independence","category":"Massage","average_stars":1.5}
+{"city":"Euclid","category":"Rehabilitation Center","average_stars":1.5}
+{"city":"Beachwood","category":"Dance Schools","average_stars":1.5}
+{"city":"Montreal-West","category":"Vegan","average_stars":1.5}
+{"city":"Sewickley","category":"Ophthalmologists","average_stars":1.5}
+{"city":"Rocky River","category":"Auto Glass Services","average_stars":1.5}
+{"city":"East York","category":"Auto Detailing","average_stars":1.5}
+{"city":"Etna","category":"Pizza","average_stars":1.5}
+{"city":"Mc Farland","category":"Mass Media","average_stars":1.5}
+{"city":"Schwieberdingen","category":"Swimming Pools","average_stars":1.5}
+{"city":"Chagrin Falls","category":"Post Offices","average_stars":1.5}
+{"city":"Montreal-West","category":"Vegetarian","average_stars":1.5}
+{"city":"Streetsboro","category":"Hot Dogs","average_stars":1.5}
+{"city":"East York","category":"Car Wash","average_stars":1.5}
+{"city":"Lachine","category":"Venues & Event Spaces","average_stars":1.5}
+{"city":"Spring Valley","category":"Health & Medical","average_stars":1.5}
+{"city":"Laval","category":"Kitchen & Bath","average_stars":1.5}
+{"city":"Glendale","category":"Psychiatrists","average_stars":1.5}
+{"city":"Stowe","category":"Coffee & Tea","average_stars":1.5}
+{"city":"Westmount","category":"Burgers","average_stars":1.5}
+{"city":"Berea","category":"Telecommunications","average_stars":1.5}
+{"city":"Tolleson","category":"Professional Services","average_stars":1.5}
+{"city":"Las Vegas","category":"Pan Asian","average_stars":1.5}
+{"city":"Murrysville","category":"Insurance","average_stars":1.5}
+{"city":"Saint-Leonard","category":"Pizza","average_stars":1.5}
+{"city":"Walton Hills","category":"Furniture Stores","average_stars":1.5}
+{"city":"Cleveland Heights","category":"Police Departments","average_stars":1.5}
+{"city":"Cheswick","category":"Pizza","average_stars":1.5}
+{"city":"Fort Mill","category":"Property Management","average_stars":1.5}
+{"city":"Mayfield Heights","category":"Notaries","average_stars":1.5}
+{"city":"Beachwood","category":"Pilates","average_stars":1.5}
+{"city":"Gormley","category":"Donuts","average_stars":1.5}
+{"city":"San Tan Valley","category":"Internal Medicine","average_stars":1.5}
+{"city":"Brampton","category":"Hospitals","average_stars":1.5}
+{"city":"Oakmont","category":"Sewing & Alterations","average_stars":1.5}
+{"city":"Brook Park","category":"Hotels","average_stars":1.5}
+{"city":"Highland Hills","category":"Insurance","average_stars":1.5}
+{"city":"Mesa","category":"Airlines","average_stars":1.5}
+{"city":"Lakewood","category":"Post Offices","average_stars":1.5}
+{"city":"Sheffield Village","category":"Barbers","average_stars":1.5}
+{"city":"Brooklyn","category":"Pizza","average_stars":1.5}
+{"city":"Tempe","category":"Television Service Providers","average_stars":1.5}
+{"city":"North Olmsted","category":"Landscaping","average_stars":1.5}
+{"city":"Leetsdale","category":"Grocery","average_stars":1.5}
+{"city":"Maple Heights","category":"Nurseries & Gardening","average_stars":1.5}
+{"city":"North York","category":"Marketing","average_stars":1.5}
+{"city":"McKeesport","category":"Beauty & Spas","average_stars":1.5}
+{"city":"McKeesport","category":"Tanning","average_stars":1.5}
+{"city":"Oregon","category":"Limos","average_stars":1.5}
+{"city":"Turtle Creek","category":"Cosmetic Dentists","average_stars":1.5}
+{"city":"Edinburgh","category":"Shared Office Spaces","average_stars":1.5}
+{"city":"Lake Wylie","category":"Ice Cream & Frozen Yogurt","average_stars":1.5}
+{"city":"North Las Vegas","category":"Television Service Providers","average_stars":1.5}
+{"city":"Mint Hill","category":"Steakhouses","average_stars":1.5}
+{"city":"Fort Mill","category":"Couriers & Delivery Services","average_stars":1.5}
+{"city":"Las Vegas Strip","category":"Beauty & Spas","average_stars":1.5}
+{"city":"Avondale","category":"Diagnostic Imaging","average_stars":1.5}
+{"city":"Concord","category":"Taxis","average_stars":1.5}
+{"city":"Pointe-Claire","category":"Hardware Stores","average_stars":1.5}
+{"city":"Cleveland","category":"Threading Services","average_stars":1.5}
+{"city":"Toronto","category":"Police Departments","average_stars":1.5}
+{"city":"Cleveland","category":"Police Departments","average_stars":1.5}
+{"city":"Parma Heights","category":"Apartments","average_stars":1.5}
+{"city":"Boulder City","category":"Computers","average_stars":1.5}
+{"city":"Avondale","category":"Radiologists","average_stars":1.5}
+{"city":"Savoy","category":"Plumbing","average_stars":1.5}
+{"city":"Sun City","category":"Dry Cleaning & Laundry","average_stars":1.5}
+{"city":"Sewickley","category":"Optometrists","average_stars":1.5}
+{"city":"Pickering","category":"Contractors","average_stars":1.5}
+{"city":"Kannapolis","category":"Office Equipment","average_stars":1.5}
+{"city":"Saint-Leonard","category":"Medical Centers","average_stars":1.5}
+{"city":"Lasalle","category":"Appliances","average_stars":1.5}
+{"city":"Montreal-West","category":"Falafel","average_stars":1.5}
+{"city":"Belmont","category":"Real Estate","average_stars":1.5}
+{"city":"Mount Lebanon","category":"Sporting Goods","average_stars":1.5}
+{"city":"MESA","category":"Travel Services","average_stars":1.5}
+{"city":"Toronto","category":"Estate Liquidation","average_stars":1.5}
+{"city":"Concord","category":"Electricians","average_stars":1.5}
+{"city":"Warrensville Heights","category":"Discount Store","average_stars":1.5}
+{"city":"Charlotte","category":"Neurologist","average_stars":1.5}
+{"city":"Sun City","category":"Neurologist","average_stars":1.5}
+{"city":"Columbia Station","category":"Active Life","average_stars":1.5}
+{"city":"Mayfield","category":"Auto Insurance","average_stars":1.5}
+{"city":"Concord","category":"Transportation","average_stars":1.5}
+{"city":"Vaudreuil-Dorion","category":"Thai","average_stars":1.5}
+{"city":"North Las Vegas","category":"Property Management","average_stars":1.5}
+{"city":"Euclid","category":"Emergency Rooms","average_stars":1.5}
+{"city":"Euclid","category":"Hospitals","average_stars":1.5}
+{"city":"Fitchburg","category":"Appliances & Repair","average_stars":1.5}
+{"city":"Bedford","category":"Discount Store","average_stars":1.5}
+{"city":"Elyria","category":"Door Sales/Installation","average_stars":1.5}
+{"city":"Middleburg Heights","category":"Tex-Mex","average_stars":1.5}
+{"city":"Las Vegas Strip","category":"Shopping","average_stars":1.5}
+{"city":"Dravosburg","category":"Chicken Wings","average_stars":1.5}
+{"city":"Kirkland","category":"Mattresses","average_stars":1.5}
+{"city":"Sheffield Village","category":"Hair Stylists","average_stars":1.5}
+{"city":"Pointe Claire","category":"Fashion","average_stars":1.5}
+{"city":"Dollard-des-Ormeaux","category":"Auto Repair","average_stars":1.5}
+{"city":"Richmond Hill","category":"Test Preparation","average_stars":1.5}
+{"city":"Brunswick","category":"Fashion","average_stars":1.5}
+{"city":"Scarborough","category":"Transportation","average_stars":1.5}
+{"city":"Bradford","category":"Chinese","average_stars":1.5}
+{"city":"Columbia Station","category":"Event Planning & Services","average_stars":1.5}
+{"city":"Mesa","category":"Courthouses","average_stars":1.5}
+{"city":"Leetsdale","category":"Books","average_stars":1.5}
+{"city":"North Olmsted","category":"Shipping Centers","average_stars":1.5}
+{"city":"Mississauga","category":"Counseling & Mental Health","average_stars":1.5}
+{"city":"Sun Lakes","category":"Food","average_stars":1.5}
+{"city":"Saint-Leonard","category":"Health & Medical","average_stars":1.5}
+{"city":"Bedford","category":"Drugstores","average_stars":1.5}
+{"city":"University Heights","category":"Gas & Service Stations","average_stars":1.5}
+{"city":"McMurray","category":"Child Care & Day Care","average_stars":1.5}
+{"city":"Sun City","category":"Permanent Makeup","average_stars":1.5}
+{"city":"Mississauga","category":"Argentine","average_stars":1.5}
+{"city":"Leetsdale","category":"Music & Video","average_stars":1.5}
+{"city":"Matthews","category":"Home Automation","average_stars":1.5}
+{"city":"Sun Prairie","category":"Apartments","average_stars":1.5}
+{"city":"Pointe Claire","category":"Men's Clothing","average_stars":1.5}
+{"city":"Saint-Lambert","category":"Ethnic Food","average_stars":1.5}
+{"city":"Mint Hill","category":"Tex-Mex","average_stars":1.5}
+{"city":"Tallmadge","category":"Fashion","average_stars":1.5}
+{"city":"MESA","category":"Transportation","average_stars":1.5}
+{"city":"Mayfield Heights","category":"Printing Services","average_stars":1.5}
+{"city":"Paradise Valley","category":"Rheumatologists","average_stars":1.5}
+{"city":"North York","category":"Emergency Pet Hospital","average_stars":1.5}
+{"city":"Sindelfingen","category":"Carpeting","average_stars":1.5}
+{"city":"Brook Park","category":"Chicken Wings","average_stars":1.5}
+{"city":"Berea","category":"Television Service Providers","average_stars":1.5}
+{"city":"Litchfield Park","category":"Burgers","average_stars":1.5}
+{"city":"Fairlawn","category":"Public Services & Government","average_stars":1.5}
+{"city":"Spring Valley","category":"Medical Spas","average_stars":1.5}
+{"city":"Verona","category":"Real Estate","average_stars":1.5}
+{"city":"Etobicoke","category":"Internet Service Providers","average_stars":1.5}
+{"city":"Sheffield Village","category":"Hair Salons","average_stars":1.5}
+{"city":"Pickering","category":"Building Supplies","average_stars":1.5}
+{"city":"Dollard-des-Ormeaux","category":"Fashion","average_stars":1.5}
+{"city":"Pleasant Hills","category":"Mattresses","average_stars":1.5}
+{"city":"Monroeville","category":"Post Offices","average_stars":1.5}
+{"city":"Brossard","category":"Tex-Mex","average_stars":1.5}
+{"city":"etobicoke","category":"Professional Services","average_stars":1.5}
+{"city":"Medina","category":"Electronics","average_stars":1.5}
+{"city":"Fairview Park","category":"Hotels & Travel","average_stars":1.5}
+{"city":"Mount Holly","category":"Sandwiches","average_stars":1.5}
+{"city":"Maple Heights","category":"Barbeque","average_stars":1.5}
+{"city":"Goodyear","category":"Buses","average_stars":1.5}
+{"city":"Middleton","category":"Pest Control","average_stars":1.5}
+{"city":"Laveen","category":"Emergency Rooms","average_stars":1.5}
+{"city":"Laveen","category":"Hospitals","average_stars":1.5}
+{"city":"Henderson","category":"Psychiatrists","average_stars":1.5}
+{"city":"Sewickley","category":"Eyewear & Opticians","average_stars":1.5}
+{"city":"Lyndhurst","category":"Optometrists","average_stars":1.5}
+{"city":"Brunswick","category":"Department Stores","average_stars":1.5}
+{"city":"Anjou","category":"Shipping Centers","average_stars":1.5}
+{"city":"Parma","category":"Florists","average_stars":1.5}
+{"city":"Richmond Hill","category":"Karaoke","average_stars":1.5}
+{"city":"Canonsburg","category":"Appliances & Repair","average_stars":1.5}
+{"city":"MESA","category":"Landscaping","average_stars":1.5}
+{"city":"Wesley Chapel","category":"Nail Salons","average_stars":1.5}
+{"city":"Etobicoke","category":"Employment Agencies","average_stars":1.5}
+{"city":"Cleveland","category":"Television Service Providers","average_stars":1.5}
+{"city":"Gastonia","category":"Property Management","average_stars":1.5}
+{"city":"Paradise","category":"Real Estate","average_stars":1.5}
+{"city":"Lakewood","category":"Property Management","average_stars":1.5}
+{"city":"South Euclid","category":"Mexican","average_stars":1.5}
+{"city":"Parma Heights","category":"Home Services","average_stars":1.5}
+{"city":"Belmont","category":"Financial Services","average_stars":1.5}
+{"city":"Strongsville","category":"Pet Training","average_stars":1.5}
+{"city":"Gilbert","category":"Bed & Breakfast","average_stars":1.5}
+{"city":"Saint-Lambert","category":"Home & Garden","average_stars":1.5}
+{"city":"Lachine","category":"Banks & Credit Unions","average_stars":1.5}
+{"city":"Bridgeville","category":"Thrift Stores","average_stars":1.5}
+{"city":"Richmond Hill","category":"Educational Services","average_stars":1.5}
+{"city":"Nellis Afb","category":"Automotive","average_stars":1.5}
+{"city":"Mentor","category":"Towing","average_stars":1.5}
+{"city":"Spring Valley","category":"Beauty & Spas","average_stars":1.5}
+{"city":"Saint-Lambert","category":"Kitchen & Bath","average_stars":1.5}
+{"city":"Dollard-des-Ormeaux","category":"Tires","average_stars":1.5}

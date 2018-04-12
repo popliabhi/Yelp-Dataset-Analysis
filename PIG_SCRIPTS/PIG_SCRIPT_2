@@ -1,0 +1,15 @@
+SET elephantbird.jsonloader.nestedLoad 'true';
+
+BUSINESS_LOAD = LOAD './yelp_academic_dataset_business.json' USING com.twitter.elephantbird.pig.load.JsonLoader('-nestedLoad=true') AS (business: map[]);
+
+business = FOREACH BUSINESS_LOAD GENERATE business#'categories' as categories,business#'city' as city, business# 'business_id' as business_id, (double)business# 'stars' as stars;
+
+RESULT_1 = FOREACH business GENERATE FLATTEN(categories), city,stars;
+
+group_city_category = GROUP RESULT_1 BY (city,categories);
+
+RESULT_2 = FOREACH group_city_category GENERATE FLATTEN(group) as (city,categories),  AVG(RESULT_1.stars) as average_stars;
+
+Final_result = ORDER RESULT_2 BY average_stars DESC;
+
+store Final_result into './FinalQ2';
